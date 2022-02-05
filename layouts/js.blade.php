@@ -1,0 +1,14 @@
+<script type="css/javascript" src="{{ URL::asset ('/static/js/01.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/02.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/app.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/backend-bundle.min.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/chart-custom.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/customizer.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/flex-tree.min.js') }}"></script>
+<script type="module" src="{{ URL::asset ('/static/js/index.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/sidebar.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/slider.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/sweetalert.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/table-treeview.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/tree.js') }}"></script>
+<script type="css/javascript" src="{{ URL::asset ('/static/js/vector-map-custom.js') }}"></script>
