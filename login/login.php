@@ -5,7 +5,7 @@
    if(isset($_POST['memberLogin'])){
       // $memberID = $_POST['memberID'];
       // $memberPWD = $_POST['memberPWD'];
-      $result = signupSeatU($_POST['seatID'], $_POST['tableCode'], $_POST['memberID'], $_POST['memberPWD']);
+      $result = connectSeatU($_POST['seatID'], $_POST['tableCode'], $_POST['memberID'], $_POST['memberPWD']);
       $_SESSION['memberID'] = $_POST['memberID'];
       $_SESSION['tableID'] = $_POST['tableID'];
       $_SESSION['seatID'] = $_POST['seatID'];
